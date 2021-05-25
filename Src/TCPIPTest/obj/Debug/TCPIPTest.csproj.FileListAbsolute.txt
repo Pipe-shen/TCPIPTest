@@ -1,0 +1,10 @@
+Z:\Code\TCPIPTest\Src\TCPIPTest\bin\Debug\TCPIPTest.exe.config
+Z:\Code\TCPIPTest\Src\TCPIPTest\bin\Debug\TCPIPTest.exe
+Z:\Code\TCPIPTest\Src\TCPIPTest\bin\Debug\TCPIPTest.pdb
+Z:\Code\TCPIPTest\Src\TCPIPTest\obj\Debug\TCPIPTest.csprojAssemblyReference.cache
+Z:\Code\TCPIPTest\Src\TCPIPTest\obj\Debug\TCPIPTest.Properties.Resources.resources
+Z:\Code\TCPIPTest\Src\TCPIPTest\obj\Debug\TCPIPTest.csproj.GenerateResource.cache
+Z:\Code\TCPIPTest\Src\TCPIPTest\obj\Debug\TCPIPTest.csproj.CoreCompileInputs.cache
+Z:\Code\TCPIPTest\Src\TCPIPTest\obj\Debug\TCPIPTest.exe
+Z:\Code\TCPIPTest\Src\TCPIPTest\obj\Debug\TCPIPTest.pdb
+Z:\Code\TCPIPTest\Src\TCPIPTest\obj\Debug\TCPIPTest.FrmMain.resources
